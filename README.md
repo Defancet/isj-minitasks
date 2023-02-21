@@ -1,0 +1,2 @@
+# isj-minitasks
+ISJ miniúkoly

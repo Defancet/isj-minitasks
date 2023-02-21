@@ -1,2 +1,1 @@
-# isj-minitasks
-ISJ miniúkoly
+# Skriptovací jazyky miniúkoly
